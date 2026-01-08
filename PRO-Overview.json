@@ -1,0 +1,265 @@
+{
+  "Germany": {
+    "Packaging": {
+      "pros": [
+        { "name": "Grüner Punkt", "url": "/pros/de/gruener-punkt" },
+        { "name": "Interseroh", "url": "/pros/de/interseroh" },
+        { "name": "BellandVision", "url": "/pros/de/bellandvision" }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        { "name": "Stiftung GRS Batterien", "url": "/pros/de/grs-batterien" }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        { "name": "Stiftung EAR", "url": "/pros/de/ear" }
+      ]
+    },
+    "Textile": {
+      "pros": [
+        { "name": "Example PRO DE Textile", "url": "/pros/de/textile" }
+      ]
+    }
+  },
+
+  "Austria": {
+    "Packaging": {
+      "pros": [
+        { "name": "ARA", "url": "/pros/at/ara" },
+        { "name": "Interseroh Austria", "url": "/pros/at/interseroh" }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        { "name": "Example AT Battery PRO", "url": "/pros/at/batteries" }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        { "name": "Example AT WEEE PRO", "url": "/pros/at/weee" }
+      ]
+    },
+    "Textile": { "pros": [] }
+  },
+
+  "Belgium": {
+    "Packaging": {
+      "pros": [
+        { "name": "Fost Plus", "url": "/pros/be/fost-plus" }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        { "name": "Bebat", "url": "/pros/be/bebat" }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        { "name": "Recupel", "url": "/pros/be/recupel" }
+      ]
+    },
+    "Textile": { "pros": [] }
+  },
+
+  "Iceland": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Finland": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "France": {
+    "Packaging": {
+      "pros": [
+        { "name": "Citeo", "url": "/pros/fr/citeo" }
+      ]
+    },
+    "Batteries": { "pros": [] },
+    "WEEE": {
+      "pros": [
+        { "name": "Ecosystem", "url": "/pros/fr/ecosystem" },
+        { "name": "Ecologic", "url": "/pros/fr/ecologic" }
+      ]
+    },
+    "Textile": {
+      "pros": [
+        { "name": "Refashion", "url": "/pros/fr/refashion" }
+      ]
+    }
+  },
+
+  "Ireland": {
+    "Packaging": {
+      "pros": [
+        { "name": "Repak", "url": "/pros/ie/repak" }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        { "name": "WEEE Ireland (batteries)", "url": "/pros/ie/weee-batteries" }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        { "name": "WEEE Ireland", "url": "/pros/ie/weee-ireland" },
+        { "name": "ERP Ireland", "url": "/pros/ie/erp" }
+      ]
+    },
+    "Textile": { "pros": [] }
+  },
+
+  "Luxembourg": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Netherlands": {
+    "Packaging": {
+      "pros": [
+        { "name": "Afvalfonds Verpakkingen", "url": "/pros/nl/afvalfonds" }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        { "name": "Stibat", "url": "/pros/nl/stibat" }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        { "name": "Wecycle / Stichting OPEN", "url": "/pros/nl/wecycle" }
+      ]
+    },
+    "Textile": { "pros": [] }
+  },
+
+  "Norway": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Slovakia": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Sweden": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "United Kingdom": {
+    "Packaging": {
+      "pros": [
+        { "name": "Example UK Packaging PRO", "url": "/pros/uk/packaging" }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        { "name": "Example UK Battery PRO", "url": "/pros/uk/batteries" }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        { "name": "Example UK WEEE PRO", "url": "/pros/uk/weee" }
+      ]
+    },
+    "Textile": { "pros": [] }
+  },
+
+  "Portugal": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Poland": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Estonia": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Italy": {
+    "Packaging": {
+      "pros": [
+        { "name": "CONAI", "url": "/pros/it/conai" }
+      ]
+    },
+    "Batteries": { "pros": [] },
+    "WEEE": {
+      "pros": [
+        { "name": "Various Italian WEEE PROs", "url": null }
+      ]
+    },
+    "Textile": { "pros": [] }
+  },
+
+  "Russia": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Czechia": {
+    "Packaging": {
+      "pros": [
+        { "name": "EKO-KOM", "url": "/pros/cz/eko-kom" }
+      ]
+    },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Switzerland": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": {
+      "pros": [
+        { "name": "SENS", "url": "/pros/ch/sens" },
+        { "name": "SWICO", "url": "/pros/ch/swico" }
+      ]
+    },
+    "Textile": { "pros": [] }
+  },
+
+  "Cyprus": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  },
+
+  "Turkey": {
+    "Packaging": { "pros": [] },
+    "Batteries": { "pros": [] },
+    "WEEE": { "pros": [] },
+    "Textile": { "pros": [] }
+  }
+}
