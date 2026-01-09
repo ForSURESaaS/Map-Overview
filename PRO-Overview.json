@@ -24,7 +24,7 @@
     }
   },
 
-  "Austria": {
+  "AT": {
     "Packaging": {
       "pros": [
         { "name": "ARA", "url": "/pros/at/ara" },
@@ -44,7 +44,7 @@
     "Textile": { "pros": [] }
   },
 
-  "Belgium": {
+  "BE": {
     "Packaging": {
       "pros": [
         { "name": "Fost Plus", "url": "/pros/be/fost-plus" }
