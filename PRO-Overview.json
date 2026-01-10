@@ -263,16 +263,16 @@
     "Packaging": {
       "pros": [
         {
-          "name": "Lucid",
-          "url": ""
-        },
-        {
           "name": "Noventiz",
           "url": ""
         },
         {
           "name": "Zentek",
           "url": ""
+        },
+        {
+          "name": "Lucid",
+          "url": "https://lucid.verpackungsregister.org/"
         }
       ]
     },
