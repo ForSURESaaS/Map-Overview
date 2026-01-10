@@ -1,1 +1,458 @@
-{}
+{
+  "NL": {
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "DE": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries (GRS)": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "ERP Recycling_old",
+          "url": "template.url"
+        },
+        {
+          "name": "ERP Recycling_old",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "FR": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Ecosystem Pro / B2B",
+          "url": "template.url"
+        },
+        {
+          "name": "Ecologic - Household / B2C",
+          "url": "template.url"
+        },
+        {
+          "name": "Ecologic - Household / B2C",
+          "url": "template.url"
+        },
+        {
+          "name": "Ecologic - Pro / B2B",
+          "url": "template.url"
+        },
+        {
+          "name": "Ecologic - Pro / B2B",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Ecosystem (Corepile)",
+          "url": "template.url"
+        },
+        {
+          "name": "Corepile",
+          "url": "template.url"
+        },
+        {
+          "name": "Corepile",
+          "url": "template.url"
+        },
+        {
+          "name": "Ecosystem (Corepile)",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Citeo - full declaration",
+          "url": "template.url"
+        },
+        {
+          "name": "LEKO - Product Family",
+          "url": "template.url"
+        },
+        {
+          "name": "Citeo - full declaration",
+          "url": "template.url"
+        },
+        {
+          "name": "LEKO - Product Family",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "PT": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Siliamb",
+          "url": "template.url"
+        },
+        {
+          "name": "Siliamb",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Siliamb",
+          "url": "template.url"
+        },
+        {
+          "name": "Siliamb",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "DK": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "",
+          "url": "template.url"
+        },
+        {
+          "name": "Recipo",
+          "url": "template.url"
+        },
+        {
+          "name": "",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Elretur - new",
+          "url": "template.url"
+        },
+        {
+          "name": "",
+          "url": "template.url"
+        },
+        {
+          "name": "Recipo",
+          "url": "template.url"
+        },
+        {
+          "name": "",
+          "url": "template.url"
+        },
+        {
+          "name": "Elretur - new",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "GB": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Valpak",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Valpak",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "BE": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Default",
+          "url": "template.url"
+        },
+        {
+          "name": "Default",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Bebat",
+          "url": "template.url"
+        },
+        {
+          "name": "Bebat",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "",
+          "url": "template.url"
+        },
+        {
+          "name": "",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "AT": {
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Reclay",
+          "url": "template.url"
+        },
+        {
+          "name": "Reclay",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "HR": {
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Interzero",
+          "url": "template.url"
+        },
+        {
+          "name": "Interzero",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "NO": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Recipo",
+          "url": "template.url"
+        },
+        {
+          "name": "Recipo",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Recipo",
+          "url": "template.url"
+        },
+        {
+          "name": "Recipo",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "EE": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "",
+          "url": "template.url"
+        },
+        {
+          "name": "",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "": {
+    "": {
+      "pros": [
+        {
+          "name": "Asekol",
+          "url": "template.url"
+        },
+        {
+          "name": "Asekol",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Procircular",
+          "url": "template.url"
+        },
+        {
+          "name": "Procircular",
+          "url": "template.url"
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Ecobatterien - detailed",
+          "url": "template.url"
+        },
+        {
+          "name": "Ecobatterien - detailed",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "LV": {
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Latvia Zalais Punkts (LZP)",
+          "url": "template.url"
+        },
+        {
+          "name": "Latvia Zalais Punkts (LZP)",
+          "url": "template.url"
+        }
+      ]
+    }
+  },
+  "LT": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "GIA",
+          "url": "template.url"
+        },
+        {
+          "name": "GIA",
+          "url": "template.url"
+        }
+      ]
+    }
+  }
+}
