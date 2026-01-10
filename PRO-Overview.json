@@ -1,1 +1,706 @@
-{}
+{
+  "SE": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "El Kretsen",
+          "url": ""
+        },
+        {
+          "name": "Recipo",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "NPA",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "El Kretsen",
+          "url": ""
+        },
+        {
+          "name": "Recipo",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "DK": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Recipo",
+          "url": ""
+        },
+        {
+          "name": "Elretur",
+          "url": ""
+        },
+        {
+          "name": "ERP Denmark",
+          "url": ""
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Recipo",
+          "url": ""
+        },
+        {
+          "name": "Elretur",
+          "url": ""
+        },
+        {
+          "name": "ERP Denmark",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Elretur",
+          "url": ""
+        },
+        {
+          "name": "ERP Denmark",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "NO": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Recipo",
+          "url": ""
+        },
+        {
+          "name": "Norsirk",
+          "url": ""
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Norsirk",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Norsirk",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "RO": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Environ",
+          "url": ""
+        },
+        {
+          "name": "RLG",
+          "url": ""
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "RLG",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "AT": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "ERA",
+          "url": ""
+        },
+        {
+          "name": "ERP Austria",
+          "url": ""
+        },
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "ERP Austria",
+          "url": ""
+        },
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "ERA",
+          "url": ""
+        },
+        {
+          "name": "ERP Austria",
+          "url": ""
+        },
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "BE": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Bebat",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "FostPlus",
+          "url": ""
+        },
+        {
+          "name": "Fostplus",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Recupel",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "CH": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Inobat",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "SENS",
+          "url": ""
+        },
+        {
+          "name": "Swico",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "CZ": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Retela",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Retela",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "DE": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "ERP Recycling",
+          "url": ""
+        },
+        {
+          "name": "GRS",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Lucid",
+          "url": ""
+        },
+        {
+          "name": "Noventiz",
+          "url": ""
+        },
+        {
+          "name": "Zentek",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "EAR",
+          "url": ""
+        },
+        {
+          "name": "ERP Recycling",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "EE": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "MTU EES Ringlus",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "ETO",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "MTU EES Ringlus",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "ES": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Ecopilas",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Procircular",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Ecoasimilec",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "FI": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Elker OY",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Finnish Packaging Producers Ltd",
+          "url": ""
+        },
+        {
+          "name": "Sumi Ltd",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Elker OY",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "LU": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Ecobatterien",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Valorlux",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Ecotrel",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "FR": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Screlec",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Citeo",
+          "url": ""
+        }
+      ]
+    },
+    "Textile": {
+      "pros": [
+        {
+          "name": "Refashion",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Ecologic",
+          "url": ""
+        },
+        {
+          "name": "SOREN",
+          "url": ""
+        },
+        {
+          "name": "Ecosystem",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "GB": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Beyondly",
+          "url": ""
+        },
+        {
+          "name": "Environment Agency",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Beyondly",
+          "url": ""
+        },
+        {
+          "name": "Environment Agency",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Beyondly",
+          "url": ""
+        },
+        {
+          "name": "Environment Agency",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "HR": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "IE": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "PRL Blackbox",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Repak",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "PRL Blackbox",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "IT": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Erion",
+          "url": ""
+        },
+        {
+          "name": "ERP Italy",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Erion",
+          "url": ""
+        },
+        {
+          "name": "ERP Italy",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "NL": {
+    "WEEE": {
+      "pros": [
+        {
+          "name": "StichtingOpen",
+          "url": ""
+        }
+      ]
+    },
+    "Batteries": {
+      "pros": [
+        {
+          "name": "StichtingOpen",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Verpact",
+          "url": ""
+        }
+      ]
+    },
+    "Textile": {
+      "pros": [
+        {
+          "name": "Stichting UPV Textiel",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "LV": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Latvia Zalais Punkts (LZP)",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Latvia Zalais Punkts (LZP)",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "PL": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Asekol",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Asekol",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Asekol",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "PT": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "ERP Portugal",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "WasteTrends",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "ERP Portugal",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "SI": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "Interzero",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "SK": {
+    "Batteries": {
+      "pros": [
+        {
+          "name": "SEWA",
+          "url": ""
+        }
+      ]
+    },
+    "Packaging": {
+      "pros": [
+        {
+          "name": "SEWA",
+          "url": ""
+        }
+      ]
+    },
+    "WEEE": {
+      "pros": [
+        {
+          "name": "SEWA",
+          "url": ""
+        }
+      ]
+    }
+  }
+}
